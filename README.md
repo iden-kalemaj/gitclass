@@ -1,2 +1,2 @@
 # gitclass
-test project for git
+test
